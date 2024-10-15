@@ -1,5 +1,8 @@
-/*
- The query utilizes two CTEs: MaxScores and NonAmbiguous.
+/*  Created by: Ramy-Badr-Ahmed (https://github.com/Ramy-Badr-Ahmed)
+    Please open any issue or pull request to address bugs/corrections to this file.
+    Thank you!
+
+The query utilizes two CTEs: MaxScores and NonAmbiguous.
 
 MaxScores CTE:
 

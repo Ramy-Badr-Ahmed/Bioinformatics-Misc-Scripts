@@ -1,3 +1,7 @@
+#  Created by: Ramy-Badr-Ahmed (https://github.com/Ramy-Badr-Ahmed)
+#  Please open any issue or pull request to address bugs/corrections to this file.
+#  Thank you!
+
 import gzip
 import os
 import logging

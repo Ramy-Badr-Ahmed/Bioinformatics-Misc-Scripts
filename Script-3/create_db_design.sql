@@ -1,3 +1,8 @@
+/*  Created by: Ramy-Badr-Ahmed (https://github.com/Ramy-Badr-Ahmed)
+    Please open any issue or pull request to address bugs/corrections to this file.
+    Thank you!
+*/
+
 create schema if not exists clinical CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 
 use clinical;

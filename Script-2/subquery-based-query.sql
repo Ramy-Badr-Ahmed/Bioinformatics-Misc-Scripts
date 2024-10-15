@@ -1,4 +1,8 @@
 /*
+    Created by: Ramy-Badr-Ahmed (https://github.com/Ramy-Badr-Ahmed)
+    Please open any issue or pull request to address bugs/corrections to this file.
+    Thank you!
+
  This query uses nested subqueries instead of CTEs.
 
     The inner subquery retrieves the highest score for each SpectrumID while filtering out scores below 0.3.
