@@ -1,4 +1,8 @@
-![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-blue?style=plastic&logo=databricks&logoColor=white) ![GitHub](https://img.shields.io/github/license/Ramy-Badr-Ahmed/bioinformatics-misc-scripts?style=plastic)
+![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Perl](https://img.shields.io/badge/Perl-%2300599C.svg?style=plastic&logo=perl&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-blue?style=plastic&logo=databricks&logoColor=white) 
+
+![GitHub](https://img.shields.io/github/license/Ramy-Badr-Ahmed/bioinformatics-misc-scripts?style=plastic)
+
 ### Script 1
 
 **FASTA Sequence Variant Modifier**
