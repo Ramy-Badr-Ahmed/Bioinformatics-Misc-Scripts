@@ -1,4 +1,4 @@
-![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-blue?style=plastic&logo=databricks&logoColor=white) ![GitHub](https://img.shields.io/github/license/Ramy-Badr-Ahmed/Higgs-Dataset-Training?style=plastic)
+![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-blue?style=plastic&logo=databricks&logoColor=white) ![GitHub](https://img.shields.io/github/license/Ramy-Badr-Ahmed/bioinformatics-misc-scripts?style=plastic)
 ### Script 1
 
 **FASTA Sequence Variant Modifier**
